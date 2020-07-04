@@ -1,9 +1,9 @@
-# Machine Learning Cookbook using Python
+# Machine Learning Cookbook with Python
 
-Code Repository for Rudimentary Machine Learning Cookbook (BPB Publications)
+Code Repository for Machine Learning Cookbook with Python (BPB Publications)
 
 ---
-Run the Entire Workbook Online @ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rehanguha/Machine-Learning-Cookbook-using-Python/master)
+Run the Entire Workbook Online @ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rehanguha/Machine-Learning-Cookbook-with-Python/master)
 
 ---
 
