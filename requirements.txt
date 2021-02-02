@@ -2,7 +2,7 @@ appnope==0.1.0
 astropy==4.0.1.post1
 attrs==19.3.0
 backcall==0.2.0
-bleach==3.1.5
+bleach==3.3.0
 branca==0.4.1
 certifi==2020.4.5.2
 chardet==3.0.4
